@@ -5,7 +5,7 @@ The backend uses Express with JWT and middleware.
 
 ## My Project
 
-In this project you have to register and login to be able to add to-do tasks. You can also delete and edit these tasks.\
+In this project you have to register and login to be able to add to-do tasks. You can also delete and edit these tasks.
 
 ## Installation
 Before starting the server and react application you will need to intsall packages first.
