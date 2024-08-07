@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  margin: auto;
+  width: auto;
+  height: 750px;
+  background-color: rgb(255, 255, 155);
+}
+
+.heading {
+  color: rgb(222, 182, 248);
+  font-size: 50px;
+  margin-top: 0px;
+  font-family: "Courier New", Courier, monospace;
+  margin-bottom: 20px;
+}
+
+.content {
+  font-size: 20px;
+}
+
+.buttons {
+  margin-left: 8px;
+  background-color: rgb(222, 182, 248);
+  border: 2px solid rgb(222, 182, 248);
+  font-weight: 600;
+}
